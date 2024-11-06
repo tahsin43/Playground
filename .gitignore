@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Virtual Environment
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

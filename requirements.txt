@@ -1,0 +1,8 @@
+jupyter
+pandas
+numpy
+matplotlib
+requests
+pytest
+black    # formatter
+flake8   # linter
